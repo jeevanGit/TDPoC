@@ -9,6 +9,13 @@
       },
       "defaultValue": "https://github.com/jeevanGit/TDPoC/tree/master/ACSENGINE"
     },
+    "_artifactsLocationSasToken": {
+      "type": "securestring",
+      "metadata": {
+        "description": "The sasToken required to access _artifactsLocation.  When the template is deployed using the accompanying scripts, a sasToken will be automatically generated."
+      },
+      "defaultValue": ""
+    },
     "agentpool1Count": {
       "allowedValues": [
         1,
