@@ -787,9 +787,7 @@
             "type": "string"
         },
         "kubernetesACIConnectorRegion": {
-            "defaultValue": "westus",
-            "metadata": {
-                "description": "Region for ACI Connector."
+            "defaultValue": "[resourceGroup().location]"
             },
             "type": "string"
         },
