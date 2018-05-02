@@ -1,7 +1,7 @@
 {
-    "itemDisplayName": "Kubernetes Cluster 1.10 - VNET Enabled",
+    "itemDisplayName": "Kubernetes Cluster 1.10 - VNET Enabled v2",
     "description": "Deploys k8s cluster with version 1.10. The version is bumped up to 1.10. Template is VNET specific. Makes use of self signed certificates.",
     "summary": "acs-engine generated template for deploying kubernetes 1.10",
     "githubUsername": "Architech Solutions Consulting Services Inc",
-    "dateUpdated": "2018-05-01"
+    "dateUpdated": "2018-05-02"
 }
